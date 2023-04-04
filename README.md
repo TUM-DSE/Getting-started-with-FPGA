@@ -16,50 +16,50 @@ References to learning materials/tutorials for Digital circuits, HDL, and FPGA d
 
 # 1. Hardware Description Language (HDL)
 
-## Verilog HDL
+## 1.1. Verilog HDL
 - [Introduction to Verilog](https://www.chipverify.com/verilog/verilog-introduction)
 - [How to Write a Basic Verilog Module](https://fpgatutorial.com/how-to-write-a-basic-verilog-module/)
 - [Verilog Data Types and Arrays](https://fpgatutorial.com/data-types-and-arrays-in-verilog/)
 - [Combinational Logic with assign](https://www.chipverify.com/verilog/verilog-combinational-logic-assign)
 - [Sequential Logic with always](https://www.chipverify.com/verilog/verilog-always-sequential-logic)
 
-## Verilog RTL Simulation
+## 1.2. Verilog RTL Simulation
 - [Verilog simulation](https://www.chipverify.com/verilog/verilog-simulation)
 - [How to Write a Basic Verilog Testbench](https://fpgatutorial.com/how-to-write-a-basic-verilog-testbench/)
 
 
 # 2. Field Programmable Gate Array (FPGA) 
 
-## FPGA architecture
+## 2.1. FPGA architecture
 TBD
 
-## FPGA development
+## 2.2. FPGA development
 TBD
 
-# 3. Develop FPGA
+# 3. FPGA Design and Development
 
-## Vivado tutorials
+## 3.1. Vivado tutorials
 - [Vivado Design Suite Tutorial: Logic Simulation (UG937)](https://docs.xilinx.com/r/en-US/ug937-vivado-design-suite-simulation-tutorial/Revision-History)
 - WiP
 
 
 # 4. Use FPGA as Accelerators
-## Task offloading
+## 4.1. Task offloading
 - [Fundamentals of FPGA acceleration](https://www.xilinx.com/publications/events/developer-forum/2018-frankfurt/fundamentals-of-fpga-based-acceleration.pdf)
 
-## Programming model
+## 4.2. Programming model
 - [OpenCL programming model](https://www.xilinx.com/support/documentation/university/Vitis-Workshops/2019_2/vitis_opencl_execution_model.pdf) 
 
-## Vitis (AMD Xilinx)
+## 4.3. Vitis (AMD Xilinx)
 - [Vitis Tutorials](https://github.com/Xilinx/Vitis-Tutorials)
 
 # 5. Develop FPGA with High-level Languages
 
-## High-level Language Synthesis (HLS)
+## 5.1. High-level Language Synthesis (HLS)
 - [Vitis HLS](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Introduction-to-Vitis-HLS)
 - [Vitis High-Level Synthesis User Guide (UG1399)](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Introduction)
 
-## Domain Specific Languages (DSL)
+## 5.2. Domain Specific Languages (DSL)
 - Chisel (WiP)
 
 # 6. Etc. (Recommended books)
