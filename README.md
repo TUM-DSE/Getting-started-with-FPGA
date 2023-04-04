@@ -62,7 +62,8 @@ TBD
 ## 5.2. Domain Specific Languages (DSL)
 - Chisel (WiP)
 
-# 6. Etc. (Recommended books)
+# 6. Other materials
+## 6.1. Books
 - Computer Organization and Design: The Hardware Software Interface (RISC-V Edition)
   - ISBN-13: 978-0124077263
 
