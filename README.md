@@ -60,7 +60,8 @@ TBD
 - [Vitis High-Level Synthesis User Guide (UG1399)](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Introduction)
 
 ## 5.2. Domain Specific Languages (DSL)
-- Chisel (WiP)
+- Chisel
+  - [Getting Started with Chisel](https://inst.eecs.berkeley.edu/~cs250/sp16/handouts/chisel-getting-started.pdf)
 
 # 6. Other materials
 ## 6.1. Books
