@@ -42,6 +42,8 @@ TBD
 - [Vivado Design Suite Tutorial: Logic Simulation (UG937)](https://docs.xilinx.com/r/en-US/ug937-vivado-design-suite-simulation-tutorial/Revision-History)
 - WiP
 
+## 3.2. EDA Playground tutorials
+- [EDA Playground Youtube tutorials](https://www.youtube.com/@Edaplayground_EPWave)
 
 # 4. Use FPGA as Accelerators
 ## 4.1. Task offloading
@@ -52,6 +54,9 @@ TBD
 
 ## 4.3. Vitis (AMD Xilinx)
 - [Vitis Tutorials](https://github.com/Xilinx/Vitis-Tutorials)
+
+## 4.4. AXI interfaces
+- [AXI Basics tutorials](https://support.xilinx.com/s/article/1053914?language=en_US)
 
 # 5. Develop FPGA with High-level Languages
 
