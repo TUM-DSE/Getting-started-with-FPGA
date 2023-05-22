@@ -40,10 +40,19 @@ TBD
 
 ## 3.1. Vivado tutorials
 - [Vivado Design Suite Tutorial: Logic Simulation (UG937)](https://docs.xilinx.com/r/en-US/ug937-vivado-design-suite-simulation-tutorial/Revision-History)
+- [Vivado Design Suite Tutorial: Programming and Debugging (UG936)](https://docs.xilinx.com/r/en-US/ug936-vivado-tutorial-programming-debugging/Debugging-in-Vivado-Tutorial)
 - WiP
 
-## 3.2. EDA Playground tutorials
+## 3.2. Vivado User Guides
+- [Vivado Design Suite User Guide: Programming and Debugging (UG908)](https://docs.xilinx.com/r/en-US/ug908-vivado-programming-debugging/Introduction)
+
+## 3.3. EDA Playground tutorials
 - [EDA Playground Youtube tutorials](https://www.youtube.com/@Edaplayground_EPWave)
+
+## 3.4 Connecting to an FPGA remotely
+You can use Vivado to interact with an FPGA that is attached to a remote machine as if it was attached locally:
+1. On the FPGA machine: Open Vivado, enter `hw_server -d` in the TCL console.
+2. On the other machine: Open Vivado -> Open Hardware Manager -> Open target -> Open New Target -> Next -> Connect to: Remote server -> enter IP of FPGA machine, default port should work -> Next
 
 # 4. Use FPGA as Accelerators
 ## 4.1. Task offloading
